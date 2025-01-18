@@ -150,6 +150,6 @@ object Recap {
   end BracesLessAnimal
 
   def main(args: Array[String]): Unit = {
-
+    println(pairs);
   }
 }
