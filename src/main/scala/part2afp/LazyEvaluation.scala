@@ -75,7 +75,7 @@ object LazyEvaluation {
 
     demoByName()
     demoByNeed()
-    
+
     demoFilter()
     demoWithFilter()
     demoForComprehension()
